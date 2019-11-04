@@ -5,7 +5,7 @@ Background
 Using JavaScript, HTML, CSS, and D3.js, create a table dynamically based upon the dataset provided that allows users the ability to filter the table data for specific values. 
 
 Level 1 : Automatic Table and Date Search 
-
+---------------------------------------------------------------------------------------------------
 Create a HTML web page
 Given that the provided UFO dataset is in the form of an array of JavaScript objects, provide code that appends a table to your web page and then adds new rows of data for each UFO sighting. 
 Columns required to be present: datetime, city, state, country, shape, and comments
